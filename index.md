@@ -1,7 +1,7 @@
 ## Hi, I'm Nicole.
-Data Science and Economics @ UC Berkeley (2023)  
-<img src="email.png" alt="emailicon" width="18" height="13"/>  nicolepark@berkeley.edu  
-[Photography Portfolio](https://vsco.co/nicoolpark/gallery)  
+<img src="Thin-Pen_240px.png" alt="emailicon" width="18" height="18"/>  Data Science and Economics @ UC Berkeley (2023)  
+<img src="Mail_240px.png" alt="emailicon" width="18" height="13"/>  nicolepark@berkeley.edu  
+<img src="Camera-3_240px.png" alt="emailicon" width="18" height="13"/>  [Photography Portfolio](https://vsco.co/nicoolpark/gallery)  
 
 ### Markdown
 
