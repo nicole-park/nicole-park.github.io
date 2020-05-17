@@ -1,6 +1,6 @@
 ## Hi, I'm Nicole.
 Data Science and Economics @ UC Berkeley (2023)  
-nicolepark@berkeley.edu  
+<img src="email.png" alt="email" width="20"/> nicolepark@berkeley.edu  
 [Photography Portfolio](https://vsco.co/nicoolpark/gallery)  
 
 ### Markdown
