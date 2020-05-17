@@ -4,7 +4,7 @@
 title: Nicole Park
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Nicole's Website
 
 # Your name to show in the footer
 author: Nicole Park
@@ -13,10 +13,7 @@ author: Nicole Park
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://nicole-park.github.io"
 
 # --- Logo --- #
 
@@ -38,13 +35,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "nicolepark@berkeley.edu"
+  facebook: nicoleelato
+  github: nicole-park
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: nicoolpark
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -62,13 +58,12 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
   facebook: true
   linkedin: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "nicole-park.github.io"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
