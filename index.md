@@ -1,5 +1,5 @@
 ## Nicole Park
-![image](emailicon.png) [link](nicolepark@berkeley.edu)
+![image](emailicon.png) nicolepark@berkeley.edu
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
