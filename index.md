@@ -1,5 +1,5 @@
-## Nicole Park
-> _UC Berkeley Data Science and Economics Undergraduate_   
+## Hi, I'm Nicole!
+> UC Berkeley Data Science and Economics Undergraduate   
 > nicolepark@berkeley.edu  
 > [Photography](https://vsco.co/nicoolpark/gallery)  
 
