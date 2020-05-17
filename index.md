@@ -1,5 +1,8 @@
 ## Nicole Park
 
+![Image of nicole]
+(https://github.com/nicole-park/nicole-park.github.io/issues/1#issue-619612165)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
