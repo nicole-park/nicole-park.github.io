@@ -3,7 +3,7 @@ _UC Berkeley Data Science and Economics Undergraduate_
 
 nicolepark@berkeley.edu
 
-[Photography](nicoolpark.vsco.co)
+[Photography](https://vsco.co/nicoolpark/gallery)
 
 ### Markdown
 
