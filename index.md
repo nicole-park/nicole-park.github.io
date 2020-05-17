@@ -1,9 +1,7 @@
 ## Nicole Park
-_UC Berkeley Data Science and Economics Undergraduate_
-
-nicolepark@berkeley.edu
-
-[Photography](https://vsco.co/nicoolpark/gallery)
+> _UC Berkeley Data Science and Economics Undergraduate_   
+> nicolepark@berkeley.edu  
+> [Photography](https://vsco.co/nicoolpark/gallery)  
 
 ### Markdown
 
