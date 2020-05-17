@@ -1,7 +1,5 @@
 ## Nicole Park
-
-![Image of nicole]
-(https://github.com/nicole-park/nicole-park.github.io/issues/1#issue-619612165)
+![Nicole](https://github.com/nicole-park/nicole-park.github.io/issues/1#issue-619612165)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -24,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/nicole-park/nicole-park.github.io/issues/1#issue-619612165) and ![Image](nicole)
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
