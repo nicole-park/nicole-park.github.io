@@ -8,8 +8,6 @@ github_username:  nicole-park
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 navbar-links:
   About Me: "aboutme"
