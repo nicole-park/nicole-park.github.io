@@ -1,11 +1,7 @@
 theme: minima
 title: Nicole Park
 email: nicolepark@berkeley.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Data Scientist
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  nicole-park
+description: Data Scientist
 
 navbar-links:
   About Me: "aboutme"
