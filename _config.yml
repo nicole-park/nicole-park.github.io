@@ -1,12 +1,10 @@
 theme: minima
 title: Nicole Park
 email: nicolepark@berkeley.edu
+phone: 925-989-7715
 description: Data Scientist
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Teaching: "teaching"
   Author's home: "https://nicole-park.github.io"
 
