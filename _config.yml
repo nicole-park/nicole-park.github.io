@@ -1,13 +1,21 @@
 theme: minima
 title: Nicole Park
-description: Data Scientist
+email: nicolepark@berkeley.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Data Scientist
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: "/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  nicole-park
 
-author: Nicole Park
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
 
 navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://nicole-park.github.io"
 
